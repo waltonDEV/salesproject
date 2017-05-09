@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>shoe</groupId>
-    <artifactId>shoemicroservice</artifactId>
+    <artifactId>shoe-micro-service</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <parent>

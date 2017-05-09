@@ -1,6 +1,6 @@
-package com.didispace;
+package com.shoe;
 
-import com.didispace.filter.AccessFilter;
+import com.shoe.filter.AccessFilter;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.cloud.client.SpringCloudApplication;
 import org.springframework.cloud.netflix.zuul.EnableZuulProxy;

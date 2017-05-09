@@ -1,4 +1,4 @@
-package com.didispace.web;
+package com.shoe.web;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
