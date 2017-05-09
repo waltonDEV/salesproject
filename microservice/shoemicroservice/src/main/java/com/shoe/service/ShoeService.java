@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
  * Created by IEUser on 5/5/2017.
  */
 @RestController
-public class Shoe {
+public class ShoeService {
 
     private final Logger logger = Logger.getLogger(getClass());
 
