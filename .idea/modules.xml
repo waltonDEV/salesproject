@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/businessservice/ShoeBusinessFeignService/ShoeBusinessFeignService.iml" filepath="$PROJECT_DIR$/businessservice/ShoeBusinessFeignService/ShoeBusinessFeignService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/businessservice/ShoeBusinessRibbonService/ShoeBusinessRibbonService.iml" filepath="$PROJECT_DIR$/businessservice/ShoeBusinessRibbonService/ShoeBusinessRibbonService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/ShoeMicroService/ShoeMicroService.iml" filepath="$PROJECT_DIR$/microservice/ShoeMicroService/ShoeMicroService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/businessservice/ShoeBusinessFeignService/ShowBussinessFeign.iml" filepath="$PROJECT_DIR$/businessservice/ShoeBusinessFeignService/ShowBussinessFeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-client/config-client.iml" filepath="$PROJECT_DIR$/config/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config-server/config-server.iml" filepath="$PROJECT_DIR$/config/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/salesproject.iml" filepath="$PROJECT_DIR$/.idea/salesproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/businessservice/ShoeBusinessRibbonService1/shoe-business-feign.iml" filepath="$PROJECT_DIR$/businessservice/ShoeBusinessRibbonService1/shoe-business-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/businessservice/ShoeBusinessRibbonService1/shoe-business-ribbon.iml" filepath="$PROJECT_DIR$/businessservice/ShoeBusinessRibbonService1/shoe-business-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/businessservice/ShoeBusinessRibbonService/shoe-business-ribbon-service.iml" filepath="$PROJECT_DIR$/businessservice/ShoeBusinessRibbonService/shoe-business-ribbon-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/businessservice/ShoeBusinessRibbonService1/shoe-business-ribbon-service2.iml" filepath="$PROJECT_DIR$/businessservice/ShoeBusinessRibbonService1/shoe-business-ribbon-service2.iml" />
+    </modules>
+  </component>
+</project>

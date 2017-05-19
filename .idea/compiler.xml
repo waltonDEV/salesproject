@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api-gateway" />
+        <module name="config-client" />
+        <module name="config-server" />
+        <module name="eureka-feign" />
+        <module name="eureka-ribbon" />
+        <module name="eureka-server" />
+        <module name="shoe-business-feign" />
+        <module name="shoe-Business-feign-service" />
+        <module name="shoe-business-ribbon" />
+        <module name="shoe-business-ribbon-service" />
+        <module name="shoe-business-ribbon-service1" />
+        <module name="shoe-business-ribbon-service2" />
+        <module name="ShoeBusinessFeign" />
+        <module name="ShoeBusinessFeignService" />
+        <module name="ShoeBusinessRibbon" />
+        <module name="ShoeBusinessRibbonService" />
+        <module name="ShoeBusinessRibbonService1" />
+        <module name="ShoeMicroService" />
+        <module name="shoemicroservice" />
+        <module name="Shoemicroservice" />
+        <module name="ShowBussinessFeign" />
+      </profile>
+      <profile name="Annotation profile for eureka-ribbon" enabled="true">
+        <sourceOutputDir name="../ShoeBussiness1Ribbon/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../ShoeBussiness1Ribbon/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ShoeBussinessRibbon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api-gateway" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="eureka-feign" target="1.8" />
+      <module name="eureka-ribbon" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="shoe-business-feign" target="1.8" />
+      <module name="shoe-Business-feign-service" target="1.8" />
+      <module name="shoe-business-ribbon" target="1.8" />
+      <module name="shoe-business-ribbon-service" target="1.8" />
+      <module name="shoe-business-ribbon-service1" target="1.8" />
+      <module name="shoe-business-ribbon-service2" target="1.8" />
+      <module name="ShoeBusinessFeign" target="1.8" />
+      <module name="ShoeBusinessFeignService" target="1.8" />
+      <module name="ShoeBusinessRibbon" target="1.8" />
+      <module name="ShoeBusinessRibbonService" target="1.8" />
+      <module name="ShoeBusinessRibbonService1" target="1.8" />
+      <module name="ShoeBussinessRibbon" target="1.8" />
+      <module name="shoemicroservice" target="1.8" />
+      <module name="ShoeMicroService" target="1.8" />
+      <module name="Shoemicroservice" target="1.8" />
+      <module name="ShowBussinessFeign" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

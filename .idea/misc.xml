@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/microservice/shoemicroservice/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice/ShoeBussiness1Feign/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice/ShoeBussiness1Ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/businessservice/ShoeBusinessFeignService/pom.xml" />
+        <option value="$PROJECT_DIR$/businessservice/ShoeBusinessRibbonService/pom.xml" />
+        <option value="$PROJECT_DIR$/businessservice/ShoeBusinessRibbonService1/pom.xml" />
+        <option value="$PROJECT_DIR$/businessservice/ShoeBusinessRibbonService111/pom.xml" />
+        <option value="$PROJECT_DIR$/businessservice/ShoeBusinessFeignService111/pom.xml" />
+        <option value="$PROJECT_DIR$/api-gateway/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-client/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

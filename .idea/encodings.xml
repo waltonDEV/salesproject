@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/api-gateway/api-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/businessservice/ShoeBusinessFeignService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/businessservice/ShoeBusinessRibbonService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/ShoeMicroService" charset="UTF-8" />
+  </component>
+</project>
